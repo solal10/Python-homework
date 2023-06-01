@@ -1,4 +1,4 @@
-"solal ohana 336410055
+
 
 def factorSum(x):
     """
